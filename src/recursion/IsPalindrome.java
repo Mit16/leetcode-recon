@@ -1,5 +1,7 @@
 package recursion;
 
+import java.util.*;
+
 //1. The provided definition for singly-linked list.
 class ListNode {
  int val;
@@ -12,12 +14,32 @@ class ListNode {
 //2. Your Solution Class
 class Solution {
  public boolean isPalindrome(ListNode head) {
-     // ---------------------------------------------------------
-     // TODO: WRITE YOUR LOGIC HERE
-     // ---------------------------------------------------------
-     
-     return false; // Placeholder return
+	 Stack<Integer> arr = new Stack<>();
+     return isPalindrome(head,arr);
  }
+ 
+ private boolean isPalindrome(ListNode head,Stack<Integer> arr) {
+	 ListNode prev=null;
+	 ListNode next=null;;
+	 ListNode current = head;
+	 while(current!=null) {
+		 next=current.next;
+		 current.next=prev;
+		 arr.add(current.val);
+		 current=next;
+		 next = current.next;
+	 }
+	
+	 while(prev!=null) {
+		 if(arr.pop()!=prev.val) {
+			 return false;
+		 }
+		 prev=prev.next;
+	 }
+	 
+	return true;
+ }
+ 
 }
 
 //3. Driver Code to run the two specific examples
