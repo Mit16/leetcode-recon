@@ -14,3 +14,15 @@ This repo isn’t for bragging — it’s for understanding.
 ---
 
 > “Solve to understand. Not to impress.”
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
+<!---LeetCode Topics End-->
