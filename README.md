@@ -59,4 +59,20 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mit16/leetcode-recon/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Mit16/leetcode-recon/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Mit16/leetcode-recon/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Mit16/leetcode-recon/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Mit16/leetcode-recon/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
