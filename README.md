@@ -21,13 +21,19 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mit16/leetcode-recon/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mit16/leetcode-recon/tree/master/0027-remove-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
