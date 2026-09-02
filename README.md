@@ -28,6 +28,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Mit16/leetcode-recon/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
@@ -50,4 +51,12 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mit16/leetcode-recon/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mit16/leetcode-recon/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
