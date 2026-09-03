@@ -42,6 +42,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Mit16/leetcode-recon/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mit16/leetcode-recon/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Mit16/leetcode-recon/tree/master/0190-reverse-bits) |
 ## Hash Table
 |  |
 | ------- |
