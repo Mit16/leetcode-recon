@@ -24,6 +24,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Mit16/leetcode-recon/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,4 +97,8 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mit16/leetcode-recon/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Mit16/leetcode-recon/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
