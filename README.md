@@ -35,6 +35,7 @@ This repo isn’t for bragging — it’s for understanding.
 | ------- |
 | [0027-remove-element](https://github.com/Mit16/leetcode-recon/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Mit16/leetcode-recon/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +83,8 @@ This repo isn’t for bragging — it’s for understanding.
 | [0100-same-tree](https://github.com/Mit16/leetcode-recon/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0110-balanced-binary-tree) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Mit16/leetcode-recon/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
