@@ -1,6 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int result = Arrays.stream(nums).reduce(0,(a,b)-> a^b);
+        int result = 0;
+        for (int i = 0; i < nums.length; i++) {
+            result ^= nums[i];
+        }
         return result;
     }
 }
