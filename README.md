@@ -115,9 +115,14 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mit16/leetcode-recon/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Mit16/leetcode-recon/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mit16/leetcode-recon/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mit16/leetcode-recon/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mit16/leetcode-recon/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
