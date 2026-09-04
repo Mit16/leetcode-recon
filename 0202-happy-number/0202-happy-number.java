@@ -1,27 +1,28 @@
 class Solution {
     public boolean isHappy(int n) {
-      Set<Integer> st = new HashSet<>();
-       st.add(n);
-       
-       while(n!=1){
-        n = addMult(n);
-        if(st.contains(n)){
-            return false;
-        }
-        st.add(n);
-       }
-            
-       return true;
-        
+        int fast = n;
+        int slow = n;
+
+        do {
+            slow = next(slow);
+            fast = next(next(fast));
+
+            if (fast == 1 || slow == 1)
+                return true;
+
+        } while (slow != fast);
+
+        return false;
+
     }
 
-    private int addMult(int n){
+    private int next(int n) {
         int result = 0;
 
-        while(n>0){
+        while (n > 0) {
             int temp = n % 10;
             result += temp * temp;
-            n = n/10;
+            n = n / 10;
         }
 
         return result;
