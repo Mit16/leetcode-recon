@@ -7,11 +7,10 @@ class Solution {
             slow = next(slow);
             fast = next(next(fast));
 
-            
+            if (fast == 1 || slow == 1)
+                return true;
 
         } while (slow != fast);
-
-        if (slow==1) return true;
 
         return false;
 
