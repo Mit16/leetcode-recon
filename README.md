@@ -26,6 +26,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Mit16/leetcode-recon/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Mit16/leetcode-recon/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Mit16/leetcode-recon/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mit16/leetcode-recon/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -64,6 +66,7 @@ This repo isn’t for bragging — it’s for understanding.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mit16/leetcode-recon/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mit16/leetcode-recon/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -114,6 +117,7 @@ This repo isn’t for bragging — it’s for understanding.
 | ------- |
 | [0136-single-number](https://github.com/Mit16/leetcode-recon/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Mit16/leetcode-recon/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +125,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0202-happy-number](https://github.com/Mit16/leetcode-recon/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mit16/leetcode-recon/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mit16/leetcode-recon/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -135,4 +140,8 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mit16/leetcode-recon/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
