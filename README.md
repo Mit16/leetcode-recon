@@ -33,6 +33,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mit16/leetcode-recon/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/Mit16/leetcode-recon/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0136-single-number](https://github.com/Mit16/leetcode-recon/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Mit16/leetcode-recon/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Mit16/leetcode-recon/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
