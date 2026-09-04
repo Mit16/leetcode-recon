@@ -50,6 +50,7 @@ This repo isn’t for bragging — it’s for understanding.
 | ------- |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Mit16/leetcode-recon/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mit16/leetcode-recon/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -99,6 +100,7 @@ This repo isn’t for bragging — it’s for understanding.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mit16/leetcode-recon/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Mit16/leetcode-recon/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Mit16/leetcode-recon/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -118,6 +120,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0141-linked-list-cycle](https://github.com/Mit16/leetcode-recon/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mit16/leetcode-recon/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mit16/leetcode-recon/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mit16/leetcode-recon/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
