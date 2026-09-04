@@ -38,6 +38,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mit16/leetcode-recon/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mit16/leetcode-recon/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Mit16/leetcode-recon/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +60,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mit16/leetcode-recon/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Mit16/leetcode-recon/tree/master/0202-happy-number) |
 ## Memoization
 |  |
 | ------- |
@@ -108,6 +110,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mit16/leetcode-recon/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Mit16/leetcode-recon/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -116,4 +119,5 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mit16/leetcode-recon/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Mit16/leetcode-recon/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
