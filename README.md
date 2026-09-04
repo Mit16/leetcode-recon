@@ -25,6 +25,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Mit16/leetcode-recon/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Mit16/leetcode-recon/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Mit16/leetcode-recon/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
@@ -111,6 +113,7 @@ This repo isn’t for bragging — it’s for understanding.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mit16/leetcode-recon/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mit16/leetcode-recon/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Mit16/leetcode-recon/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
