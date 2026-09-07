@@ -12,9 +12,9 @@ class Solution {
     private int bitsCounter(int n) {
         int result = 0;
         while (n > 0) {
-            if ((n & 1) == 1)
-                result++;
-            n = n >> 1;
+            n = n & (n - 1);
+            result++;
+
         }
 
         return result;
