@@ -79,6 +79,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0543-diameter-of-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -152,4 +155,8 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mit16/leetcode-recon/tree/master/0438-find-all-anagrams-in-a-string) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Mit16/leetcode-recon/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
