@@ -105,6 +105,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0020-valid-parentheses](https://github.com/Mit16/leetcode-recon/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Mit16/leetcode-recon/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mit16/leetcode-recon/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mit16/leetcode-recon/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +129,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0217-contains-duplicate](https://github.com/Mit16/leetcode-recon/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mit16/leetcode-recon/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mit16/leetcode-recon/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -146,4 +148,8 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mit16/leetcode-recon/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
