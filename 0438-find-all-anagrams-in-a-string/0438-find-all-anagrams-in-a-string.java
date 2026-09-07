@@ -9,12 +9,19 @@ class Solution {
         }
 
         int[] pFreq = freq(p);
+        int[] windowFreq = freq(s.substring(0, l2));
 
         List<Integer> result = new ArrayList<>();
 
         for (int i = 0; i <= l1 - l2; i++) {
 
-            int[] windowFreq = freq(s.substring(i, i + l2));
+            if (i > 0) {
+                // Remove character leaving the window
+                windowFreq[s.charAt(i - 1) - 'a']--;
+
+                // Add character entering the window
+                windowFreq[s.charAt(i + l2 - 1) - 'a']++;
+            }
 
             if (compare(windowFreq, pFreq)) {
                 result.add(i);
