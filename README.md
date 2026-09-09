@@ -29,6 +29,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Mit16/leetcode-recon/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mit16/leetcode-recon/tree/master/0746-min-cost-climbing-stairs) |
+| [1046-last-stone-weight](https://github.com/Mit16/leetcode-recon/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,4 +175,8 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Mit16/leetcode-recon/tree/master/0572-subtree-of-another-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Mit16/leetcode-recon/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
