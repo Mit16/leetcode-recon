@@ -3,24 +3,19 @@ class Solution {
         if (stones.length == 1)
             return stones[0];
 
-        List<Integer> newS = new ArrayList<>();
-        
-        for (int i : stones) {
-            newS.add(i);
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+        for(int stone:stones){
+            pq.add(stone);
         }
 
-        while (newS.size() > 1) {
-            Collections.sort(newS);
-
-            int y = newS.remove(newS.size() - 1);
-            int x = newS.remove(newS.size() - 1);
+        while(pq.size()>1){
+            int y = pq.remove();
+            int x = pq.remove();
 
             if (x != y) {
-                newS.add(y - x);
+                pq.add(y - x);
             }
         }
-
-        return newS.isEmpty() ? 0 : newS.get(0);
-
+         return pq.isEmpty() ? 0 : pq.peek();
     }
 }
