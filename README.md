@@ -20,6 +20,7 @@ This repo isn’t for bragging — it’s for understanding.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mit16/leetcode-recon/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Mit16/leetcode-recon/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
@@ -41,6 +42,7 @@ This repo isn’t for bragging — it’s for understanding.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mit16/leetcode-recon/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Mit16/leetcode-recon/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mit16/leetcode-recon/tree/master/0125-valid-palindrome) |
@@ -201,4 +203,8 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mit16/leetcode-recon/tree/master/0703-kth-largest-element-in-a-stream) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mit16/leetcode-recon/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
