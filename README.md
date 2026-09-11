@@ -69,6 +69,7 @@ This repo isn’t for bragging — it’s for understanding.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mit16/leetcode-recon/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Mit16/leetcode-recon/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mit16/leetcode-recon/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
@@ -145,6 +146,7 @@ This repo isn’t for bragging — it’s for understanding.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mit16/leetcode-recon/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Mit16/leetcode-recon/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mit16/leetcode-recon/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -155,6 +157,7 @@ This repo isn’t for bragging — it’s for understanding.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mit16/leetcode-recon/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Mit16/leetcode-recon/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
