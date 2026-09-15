@@ -21,6 +21,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mit16/leetcode-recon/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mit16/leetcode-recon/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Mit16/leetcode-recon/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
@@ -43,6 +44,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mit16/leetcode-recon/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mit16/leetcode-recon/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Mit16/leetcode-recon/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mit16/leetcode-recon/tree/master/0125-valid-palindrome) |
@@ -56,6 +58,7 @@ This repo isn’t for bragging — it’s for understanding.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mit16/leetcode-recon/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Mit16/leetcode-recon/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mit16/leetcode-recon/tree/master/0242-valid-anagram) |
