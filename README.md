@@ -23,6 +23,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0011-container-with-most-water](https://github.com/Mit16/leetcode-recon/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mit16/leetcode-recon/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Mit16/leetcode-recon/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Mit16/leetcode-recon/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
@@ -170,6 +171,7 @@ This repo isn’t for bragging — it’s for understanding.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Mit16/leetcode-recon/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Mit16/leetcode-recon/tree/master/0704-binary-search) |
 ## Sliding Window
