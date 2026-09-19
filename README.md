@@ -25,6 +25,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0027-remove-element](https://github.com/Mit16/leetcode-recon/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mit16/leetcode-recon/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Mit16/leetcode-recon/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Mit16/leetcode-recon/tree/master/0136-single-number) |
@@ -173,6 +174,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mit16/leetcode-recon/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Mit16/leetcode-recon/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mit16/leetcode-recon/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Mit16/leetcode-recon/tree/master/0704-binary-search) |
@@ -214,4 +216,8 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mit16/leetcode-recon/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Mit16/leetcode-recon/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
