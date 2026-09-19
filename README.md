@@ -28,6 +28,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Mit16/leetcode-recon/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mit16/leetcode-recon/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Mit16/leetcode-recon/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Mit16/leetcode-recon/tree/master/0704-binary-search) |
@@ -172,6 +173,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mit16/leetcode-recon/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mit16/leetcode-recon/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Mit16/leetcode-recon/tree/master/0704-binary-search) |
 ## Sliding Window
