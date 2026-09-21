@@ -79,6 +79,7 @@ This repo isn’t for bragging — it’s for understanding.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mit16/leetcode-recon/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mit16/leetcode-recon/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Mit16/leetcode-recon/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mit16/leetcode-recon/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mit16/leetcode-recon/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
@@ -176,6 +177,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mit16/leetcode-recon/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Mit16/leetcode-recon/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Mit16/leetcode-recon/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mit16/leetcode-recon/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Mit16/leetcode-recon/tree/master/0268-missing-number) |
@@ -226,4 +228,8 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mit16/leetcode-recon/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Mit16/leetcode-recon/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
