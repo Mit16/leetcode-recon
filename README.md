@@ -48,6 +48,7 @@ This repo isn’t for bragging — it’s for understanding.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mit16/leetcode-recon/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mit16/leetcode-recon/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mit16/leetcode-recon/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Mit16/leetcode-recon/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mit16/leetcode-recon/tree/master/0125-valid-palindrome) |
@@ -161,6 +162,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mit16/leetcode-recon/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mit16/leetcode-recon/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Mit16/leetcode-recon/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mit16/leetcode-recon/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
