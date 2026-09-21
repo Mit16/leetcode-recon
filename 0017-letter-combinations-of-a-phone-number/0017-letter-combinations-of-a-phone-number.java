@@ -1,26 +1,24 @@
 class Solution {
+    private static String[] comb = new String[] { "","","abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz" };
     public List<String> letterCombinations(String digits) {
-        String[] comb = new String[] { "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz" };
-
         List<String> result = new ArrayList<>();
         if (digits.length() == 0) {
             return result;
         }
-        result.add("");
+        recur(digits,0,new StringBuilder(),result);
+        return result;
+    }
 
-        for (char c : digits.toCharArray()) {
-            List<String> temp = new ArrayList<>();
-            String tString = comb[c - '2'];
-
-            for (String i : result) {
-                for (char t : tString.toCharArray()) {
-                    temp.add(i + t);
-                }
-            }
-
-            result = temp;
+    private void recur(String digits, int i,StringBuilder s,List<String> result){
+        if(i == digits.length()){
+            result.add(s.toString());
+            return;
         }
 
-        return result;
+        for(char c: comb[digits.charAt(i)-'0'].toCharArray()){
+            s.append(c);
+            recur(digits,i+1,s,result);
+            s.deleteCharAt(s.length()-1);
+        }
     }
 }
