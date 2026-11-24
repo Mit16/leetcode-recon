@@ -25,6 +25,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0027-remove-element](https://github.com/Mit16/leetcode-recon/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mit16/leetcode-recon/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mit16/leetcode-recon/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Mit16/leetcode-recon/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Mit16/leetcode-recon/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mit16/leetcode-recon/tree/master/0075-sort-colors) |
@@ -156,6 +157,7 @@ This repo isn’t for bragging — it’s for understanding.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mit16/leetcode-recon/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mit16/leetcode-recon/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Mit16/leetcode-recon/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Mit16/leetcode-recon/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mit16/leetcode-recon/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mit16/leetcode-recon/tree/master/0217-contains-duplicate) |
@@ -230,6 +232,7 @@ This repo isn’t for bragging — it’s for understanding.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mit16/leetcode-recon/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Mit16/leetcode-recon/tree/master/0074-search-a-2d-matrix) |
 ## Backtracking
 |  |
