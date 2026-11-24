@@ -38,6 +38,7 @@ This repo isn’t for bragging — it’s for understanding.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mit16/leetcode-recon/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Mit16/leetcode-recon/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mit16/leetcode-recon/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Mit16/leetcode-recon/tree/master/0118-pascals-triangle) |
@@ -129,6 +130,7 @@ This repo isn’t for bragging — it’s for understanding.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mit16/leetcode-recon/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mit16/leetcode-recon/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Mit16/leetcode-recon/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mit16/leetcode-recon/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Mit16/leetcode-recon/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mit16/leetcode-recon/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mit16/leetcode-recon/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -140,6 +142,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mit16/leetcode-recon/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mit16/leetcode-recon/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -230,6 +233,7 @@ This repo isn’t for bragging — it’s for understanding.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mit16/leetcode-recon/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Mit16/leetcode-recon/tree/master/0022-generate-parentheses) |
 ## Newton's Method
 |  |
 | ------- |
